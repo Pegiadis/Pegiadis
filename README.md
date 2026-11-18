@@ -29,7 +29,7 @@ Client names stay private. Each of these runs for a real client.
 
 - [**Vetly**](https://vetly.gr): clinic platform for records, scheduling and billing. A local LLM summarises patient history, so patient data never leaves the server.
 - [**Sportsholics**](https://sportsholics.gr): Greek sports platform on a headless CMS.
-- **Folia**: offline PDF editor for Windows that never uploads your files. Free, MIT licensed.
+- [**Folia**](https://apps.microsoft.com/detail/9pk4sx3j40sp): offline PDF editor for Windows that never uploads your files. Free on the Microsoft Store, MIT licensed.
 
 ## How I work
 
