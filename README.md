@@ -6,16 +6,6 @@ AI engineer in Thessaloniki, Greece. I build the AI side of projects for agencie
 [![vetly.gr](https://img.shields.io/website?url=https%3A%2F%2Fvetly.gr&label=vetly.gr&up_message=online&down_message=offline&style=flat-square)](https://vetly.gr)
 [![sportsholics.gr](https://img.shields.io/website?url=https%3A%2F%2Fsportsholics.gr&label=sportsholics.gr&up_message=online&down_message=offline&style=flat-square)](https://sportsholics.gr)
 
-## By the numbers
-
-| | |
-|---|---|
-| **Hours → minutes** | compliance review with a RAG search over regulations |
-| **Seconds** | from a plain-language question to a chart, live for a field team |
-| **1,780** | articles published on Sportsholics |
-| **121** | seasonal employees managed in one app instead of spreadsheets |
-| **~6 years** | building software, MSc in AI (York, Distinction) |
-
 ## Selected work
 
 Client names stay private. Each of these runs for a real client.
@@ -23,7 +13,7 @@ Client names stay private. Each of these runs for a real client.
 - **AI approval of insurance claims.** AI reads each claim, checks it against the insurer's rules and drafts the reply. A person only approves and sends.
 - **Instagram booking agent.** Answers DMs in Greek, Greeklish and English, quotes from similar past pieces and books the slot. No double bookings.
 - **Field and satellite data platform.** Satellite, weather and field data on one map, plus a chat agent that answers in plain language with read-only SQL.
-- **Compliance search with citations.** Answers from regulations and internal documents, with the source attached.
+- **Compliance search with citations.** Answers from regulations and internal documents, with the source attached. Review went from hours to minutes.
 
 ## Own products
 
